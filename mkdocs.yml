@@ -12,6 +12,7 @@ nav:
     - 🏈 Home: 'index.md'
     - 🚨 Rules: 
       - 📖 Bylaws: 'rules/bylaws.md'
+      - 💬 Proposed Changes:  'rules/proposed-changes.md'
 
 theme:
     name: material

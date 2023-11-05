@@ -1,0 +1,184 @@
+
+  :root {
+    --md-admonition-icon--dollar: url('imgs/dollar-bill.svg');
+    --md-admonition-icon--helmet: url('imgs/helmet.svg');
+    --md-admonition-icon--player: url('imgs/player.svg');
+    --md-admonition-icon--referee: url('imgs/referee.svg');
+    --md-admonition-icon--football: url('imgs/american-football.svg');
+    --md-admonition-icon--trophy: url('imgs/trophy.svg');
+    --md-admonition-icon--stadium: url('imgs/stadium.svg');
+    --md-admonition-icon--podium: url('imgs/podium.svg');
+    --md-admonition-icon--scoreboard: url('imgs/scoreboard.svg');
+    --md-admonition-icon--roster: url('imgs/roster.svg');
+}
+
+.md-typeset .admonition.dollar,
+.md-typeset details.dollar {
+    border-color: rgb(43, 155, 70);
+}
+
+.md-typeset .dollar > .admonition-title,
+.md-typeset .dollar > summary {
+    background-color: rgba(43, 155, 70, 0.1);
+}
+
+.md-typeset .dollar > .admonition-title::before,
+.md-typeset .dollar > summary::before {
+    background-color: rgb(43, 155, 70);
+    -webkit-mask-image: var(--md-admonition-icon--dollar);
+    mask-image: var(--md-admonition-icon--dollar);
+}
+
+.md-typeset .admonition.helmet,
+.md-typeset details.helmet {
+    border-color: rgb(70, 108, 170);
+}
+
+.md-typeset .helmet > .admonition-title,
+.md-typeset .helmet > summary {
+    background-color: rgba(70, 108, 170, 0.1);
+}
+
+.md-typeset .helmet > .admonition-title::before,
+.md-typeset .helmet > summary::before {
+    background-color: rgb(70, 108, 170);
+    -webkit-mask-image: var(--md-admonition-icon--helmet);
+    mask-image: var(--md-admonition-icon--helmet);
+}
+
+.md-typeset .admonition.player,
+.md-typeset details.player {
+    border-color: rgb(114, 41, 145);
+}
+
+.md-typeset .player > .admonition-title,
+.md-typeset .player > summary {
+    background-color: rgba(114, 41, 145, 0.1);
+}
+
+.md-typeset .player > .admonition-title::before,
+.md-typeset .player > summary::before {
+    background-color: rgb(114, 41, 145);
+    -webkit-mask-image: var(--md-admonition-icon--player);
+    mask-image: var(--md-admonition-icon--player);
+}
+
+.md-typeset .admonition.referee,
+.md-typeset details.referee {
+    border-color: rgb(221, 120, 23);
+}
+
+.md-typeset .referee > .admonition-title,
+.md-typeset .referee > summary {
+    background-color: rgba(221, 120, 23, 0.1);
+}
+
+.md-typeset .referee > .admonition-title::before,
+.md-typeset .referee > summary::before {
+    background-color: rgb(221, 120, 23);
+    -webkit-mask-image: var(--md-admonition-icon--referee);
+    mask-image: var(--md-admonition-icon--referee);
+}
+
+.md-typeset .admonition.football,
+.md-typeset details.football {
+    border-color: rgb(255, 204, 0);
+}
+
+.md-typeset .football > .admonition-title,
+.md-typeset .football > summary {
+    background-color: rgba(255, 204, 0, 0.1);
+}
+
+.md-typeset .football > .admonition-title::before,
+.md-typeset .football > summary::before {
+    background-color: rgb(255, 204, 0);
+    -webkit-mask-image: var(--md-admonition-icon--football);
+    mask-image: var(--md-admonition-icon--football);
+}
+
+.md-typeset .admonition.scoreboard,
+.md-typeset details.scoreboard {
+    border-color: rgb(204, 0, 0);
+}
+
+.md-typeset .scoreboard > .admonition-title,
+.md-typeset .scoreboard > summary {
+    background-color: rgba(204, 0, 0, 0.1);
+}
+
+.md-typeset .scoreboard > .admonition-title::before,
+.md-typeset .scoreboard > summary::before {
+    background-color: rgb(204, 0, 0);
+    -webkit-mask-image: var(--md-admonition-icon--scoreboard);
+    mask-image: var(--md-admonition-icon--scoreboard);
+}
+
+.md-typeset .admonition.trophy,
+.md-typeset details.trophy {
+    border-color: rgb(255, 215, 0);
+}
+
+.md-typeset .trophy > .admonition-title,
+.md-typeset .trophy > summary {
+    background-color: rgba(255, 215, 0, 0.1);
+}
+
+.md-typeset .trophy > .admonition-title::before,
+.md-typeset .trophy > summary::before {
+    background-color: rgb(255, 215, 0);
+    -webkit-mask-image: var(--md-admonition-icon--trophy);
+    mask-image: var(--md-admonition-icon--trophy);
+}
+
+.md-typeset .admonition.stadium,
+.md-typeset details.stadium {
+    border-color: rgb(64, 224, 208);
+}
+
+.md-typeset .stadium > .admonition-title,
+.md-typeset .stadium > summary {
+    background-color: rgba(64, 224, 208, 0.1);
+}
+
+.md-typeset .stadium > .admonition-title::before,
+.md-typeset .stadium > summary::before {
+    background-color: rgb(64, 224, 208);
+    -webkit-mask-image: var(--md-admonition-icon--stadium);
+    mask-image: var(--md-admonition-icon--stadium);
+}
+
+.md-typeset .admonition.podium,
+.md-typeset details.podium {
+    border-color: rgb(169, 169, 169);
+}
+
+.md-typeset .podium > .admonition-title,
+.md-typeset .podium > summary {
+    background-color: rgba(169, 169, 169, 0.1);
+}
+
+.md-typeset .podium > .admonition-title::before,
+.md-typeset .podium > summary::before {
+    background-color: rgb(169, 169, 169);
+    -webkit-mask-image: var(--md-admonition-icon--podium);
+    mask-image: var(--md-admonition-icon--podium);
+}
+
+.md-typeset .admonition.roster,
+.md-typeset details.roster {
+    border-color: rgb(0, 0, 139);
+}
+
+.md-typeset .roster > .admonition-title,
+.md-typeset .roster > summary {
+    background-color: rgba(0, 0, 139, 0.1);
+}
+
+.md-typeset .roster > .admonition-title::before,
+.md-typeset .roster > summary::before {
+    background-color: rgb(0, 0, 139);
+    -webkit-mask-image: var(--md-admonition-icon--roster);
+    mask-image: var(--md-admonition-icon--roster);
+}
+  
