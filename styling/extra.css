@@ -1,4 +1,4 @@
-
+/* styling for bylaws admonitions */
   :root {
     --md-admonition-icon--dollar: url('imgs/dollar-bill.svg');
     --md-admonition-icon--helmet: url('imgs/helmet.svg');
@@ -181,4 +181,6 @@
     -webkit-mask-image: var(--md-admonition-icon--roster);
     mask-image: var(--md-admonition-icon--roster);
 }
+
+
   
