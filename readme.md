@@ -1,0 +1,1 @@
+This repo houses the website build for 12 angry men dynasty ff. The website can be found at [https://quinnstiegman.github.io/12-angry-men-dynasty/](https://quinnstiegman.github.io/12-angry-men-dynasty/)
