@@ -11,7 +11,7 @@ use_directory_urls: false
 nav:
     - 🏈 Home: 'index.md'
     - 🚨 Rules: 
-      - 📖 Bylaws: 'rules.md'
+      - 📖 Bylaws: 'rules/bylaws.md'
 
 theme:
     name: material
