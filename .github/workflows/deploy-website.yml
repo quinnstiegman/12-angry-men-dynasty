@@ -10,14 +10,14 @@ jobs:
     runs-on: ubuntu-latest    
     steps:     
        - uses: actions/checkout@v4        
-        with:           
-          fetch-depth: 0      
+         with:           
+           fetch-depth: 0      
        - uses: actions/setup-python@v4        
-        with:          
-          python-version: 3.11            
+         with:          
+           python-version: 3.11            
        - name: Install pipenv        
-        run: pip install pipenv      
+         run: pip install pipenv      
        - name: Install dependencies using pipenv        
-        run: pipenv install --deploy --system      
+         run: pipenv install --deploy --system      
        - name: Run mkdocs gh-deploy        
-        run: pipenv run mkdocs gh-deploy --force
+         run: pipenv run mkdocs gh-deploy --force
