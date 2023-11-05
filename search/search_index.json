@@ -1,1 +1,1 @@
-{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"index.html","title":"\ud83c\udfe1 Home","text":""},{"location":"index.html#hello-world","title":"hello world","text":""}]}
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"index.html","title":"\ud83c\udfc8 Home","text":""},{"location":"index.html#hello-world","title":"hello world","text":""}]}
