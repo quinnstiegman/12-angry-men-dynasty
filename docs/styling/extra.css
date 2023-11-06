@@ -182,5 +182,19 @@
     mask-image: var(--md-admonition-icon--roster);
 }
 
+[data-md-color-scheme="light"] img[src="#only-dark"] {
+  display: none;
+}
 
+[data-md-color-scheme="dark"] img[src="#only-light"] {
+  display: none;
+}
+
+[data-md-color-scheme="default"] .dark-mode * {
+  display: none; 
+}
+
+[data-md-color-scheme="slate"] .light-mode * {
+  display: none; 
+}
   
