@@ -41,9 +41,9 @@
 
 ??? dollar "League Dues/Payouts"
 
-    Each team is required to pay $25 before the beginning of each season to a commissioner. If a team trades their 1st round draft pick for a future year, they will have to pay dues for that year at the time of the trade.
+    Each team is required to pay $20 before the beginning of each season to a commissioner. If a team trades their 1st round draft pick for a future year, they will have to pay dues for that year at the time of the trade.
 
-    The champion of the league will receive $275. The runner up will receive their league dues back for that year ($25).
+    The champion of the league will receive $220. The runner up will receive their league dues back for that year ($20).
 
 ??? stadium "Orphaned/Abandoned Teams"
 
