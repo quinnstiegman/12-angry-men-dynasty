@@ -6,7 +6,7 @@ from selenium.webdriver.chrome.options import Options
 import time
 from bs4 import BeautifulSoup
 
-url = 'https://www.hilton.com/en/book/reservation/flexibledates/?ctyhocn=MLEONWA&arrivalDate=2024-12-20&departureDate=2024-12-21&redeemPts=true&room1NumAdults=1&displayCurrency=USD'  # Replace with the actual URL
+url = 'https://www.hilton.com/en/book/reservation/flexibledates/?ctyhocn=MLEONWA&arrivalDate=2024-04-20&departureDate=2024-04-21&redeemPts=true&room1NumAdults=1&displayCurrency=USD'  # Replace with the actual URL
 
 # Set up a headless Chrome browser
 options = Options()
