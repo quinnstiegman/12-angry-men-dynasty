@@ -25,7 +25,8 @@ jobs:
         pip install selenium beautifulsoup4
 
     - uses: browser-actions/setup-chrome@v1
-    - run: chrome --version
+      with:
+        chrome-version: 114
 
     - name: Run script
       run: python scrape-hilton.py
