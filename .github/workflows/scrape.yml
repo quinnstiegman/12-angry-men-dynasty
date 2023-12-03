@@ -24,13 +24,8 @@ jobs:
         python -m pip install --upgrade pip
         pip install selenium beautifulsoup4
 
-    - name: Install Google Chrome 
-
-      run: |
-
-              chmod +x ./scripts/InstallChrome.sh
-
-                          ./scripts/InstallChrome.sh 
+    - uses: browser-actions/setup-chrome@v1
+    - run: chrome --version
 
     - name: Run script
       run: python scrape-hilton.py
