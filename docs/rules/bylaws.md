@@ -12,7 +12,7 @@
 
     Teams that made the playoffs in the previous season will be given a draft position based on how far they made it in the playoffs and their seeding. For example, the four teams that lose in round 1 of the playoffs will have picks 5,6,7, and 8, with the highest draft pick going to the highest seed in the playoffs. The 2 teams that lose in round 2 will be given picks 9 and 10, with pick 10 going to the higher original seed in the playoffs.
 
-    Teams that did not make the playoffs will be given draft positions based solely on their MAX PF. MAX PF is the total number of points a teams entire roster scored during the season (including bench, IR, and taxi players). The team with the lowest MAX PF will be given the 1st pick in the draft. 
+    Teams that did not make the playoffs will be given draft positions based solely on their MAX PF. "Max PF" stands for "Maximum Points For," which refers to the highest possible point total a team could have achieved each week based on their roster. The team with the lowest MAX PF will be given the 1st pick in the draft. 
 
 ??? player "Trades"
 
@@ -24,7 +24,13 @@
 
 ??? helmet "Waiver Wire"
 
-    The league uses rolling waivers. A team maintains their position on the waiver wire until they waiver a player, then that team will be moved to the end of the waiver wire.
+    During the season, the league uses reverse standing waivers. Lower placed teams in the current standings will have the higher priority waiver pick each week.
+
+    Directly after the season, the league will switch to rolling waivers. The last team to claim a player is placed at the bottom of waiver priority.
+
+    On draft night, a waiver will not need to be put in for undrafted rookies (free for all).
+
+    After the draft and until the season, the league will switch to original standing waivers. The team in first place will have first waiver wire pick each week.
 
     Players are held on waivers for 24 hours after being dropped
 
@@ -34,9 +40,9 @@
 
     The Playoffs begin during week 14 of the NFL season and end with a two week championship game that takes place during weeks 16 & 17 of the NFL season. The playoffs consist of 3 rounds, with round 1 taking place during week 14 of the NFL, round 2 taking place during week 15 in the NFL, and round 3 (the championship) taking place during weeks 16 & 17 of the NFL.
 
-    The 8 teams with the best win-loss record at the end of the regular season will enter the playoffs. If two teams have the same record, the team with the highest Max PF will enter the playoffs/have the higher seed.
+    The 8 teams with the best win-loss record at the end of the regular season will enter the playoffs. If two teams have the same record, the team with the highest PF will enter the playoffs/have the higher seed.
 
-    Teams will be seeded based on regular season record and Max PF tiebreakers. In round 1, the 1st seed will play the 8th seed, the 2nd seed will play the 7th seed, etc. Winners of round 1 will progress to play one of the other winners of round 1. The two winners of round 2 will compete in the championship.
+    Teams will be seeded based on regular season record and PF tiebreakers. In round 1, the 1st seed will play the 8th seed, the 2nd seed will play the 7th seed, etc. Winners of round 1 will progress to play one of the other winners of round 1. The two winners of round 2 will compete in the championship.
 
 
 ??? dollar "League Dues/Payouts"
