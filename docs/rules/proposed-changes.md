@@ -4,7 +4,13 @@
 
 <small> These changes will be discussed after the 2024-2025 season. </small>
 
-- Revert to using PF (Points For) to determine draft positions for the bottom four teams instead of Max PF.
+- Revert to using PF (Points For) to determine draft positions for the bottom four teams instead of Max PF. (<span style="color: green;">PASSED</span>)
+
+### 2024 Vote Results
+
+<div style="display: flex; gap: 10px;">
+  <img src="../styling/imgs/2024_vote1.png" alt="Image 3" style="width: 300px; height: 500px; object-fit: cover;" />
+</div>
 
 ## 2023
 
