@@ -213,7 +213,8 @@
 
     - The highest-scoring eligible bench player at the same position will be substituted in. (If the ineligible player is in a FLEX spot, any FLEX-eligible player can be used.)
     - If no eligible bench player is available, the highest-scoring player on the waiver wire at the same position will be added instead. In this case, the team owner must immediately choose a player to drop from their roster to make room.
-    
+    - If the auto-sub would change the outcome of the matchup, the opponent can choose forgo the autosub.
+
     If a team is consistently starting players that are not active that week further action could be taken in order to preserve the integrity of the league.
 
     **Offseason extra roster spots**
