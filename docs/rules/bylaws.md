@@ -12,7 +12,13 @@
 
     Teams that made the playoffs in the previous season will be given a draft position based on how far they made it in the playoffs and their seeding. For example, the four teams that lose in round 1 of the playoffs will have picks 5,6,7, and 8, with the highest draft pick going to the highest seed in the playoffs. The 2 teams that lose in round 2 will be given picks 9 and 10, with pick 10 going to the higher original seed in the playoffs.
 
-    Teams that did not make the playoffs will be given draft positions based solely on their MAX PF. "Max PF" stands for "Maximum Points For," which refers to the highest possible point total a team could have achieved each week based on their roster. The team with the lowest MAX PF will be given the 1st pick in the draft. 
+    Teams that did not make the playoffs will be given draft positions based solely on end-of-season standings.
+
+    - The team with the worst record gets the 1st pick.
+    - If two teams have the same record, the team with the lower PF gets the earlier pick.
+    
+    *PF ("Points For") is the total points a team scored over the season based on their starting roster.*
+
 
 ??? player "Trades"
 
@@ -203,7 +209,12 @@
 
     4 – Taxi
 
-    All teams are expected to have active players starting each game. Teams starting injured players or players on their bye week will be reminded by the commissioner before the start of the week. If a team is consistently starting players that are not active that week further action could be taken in order to preserve the integrity of the league.
+    All teams are expected to have active players starting each game. If a team starts a player who is out or on a bye week, that player will be auto-subbed as follows:
+
+    - The highest-scoring eligible bench player at the same position will be substituted in. (If the ineligible player is in a FLEX spot, any FLEX-eligible player can be used.)
+    - If no eligible bench player is available, the highest-scoring player on the waiver wire will be added instead. In this case, the team owner must immediately choose a player to drop from their roster to make room.
+    
+    If a team is consistently starting players that are not active that week further action could be taken in order to preserve the integrity of the league.
 
     **Offseason extra roster spots**
 
